@@ -97,7 +97,7 @@ class IssueCard extends Component {
           </div>
           <div className="issue-down">
             <div className="assignee-repo">
-              <p className="parent-repo">
+              <p className="parent-repo-issues">
                 Repository:{" "}
                 <a
                   style={{ color: iconPR.style.color }}

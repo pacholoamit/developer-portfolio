@@ -120,7 +120,8 @@
   display: inline-block;
 }
 
-.parent-repo {
+.parent-repo-issues {
+  color: black;
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
