@@ -70,6 +70,18 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-stack-overflow",
     backgroundColor: "#F58025",
   },
+  {
+    name: "Dev.to",
+    link: "https://dev.to/pacholoamit",
+    fontAwesomeIcon: "fa-dev",
+    backgroundColor: "#0A0A0A",
+  },
+  {
+    name: "Hashnode",
+    link: "https://pacholoamit.hashnode.dev/",
+    fontAwesomeIcon: "fa-hashnode",
+    backgroundColor: "#2962FF",
+  },
 ];
 
 const skills = {
