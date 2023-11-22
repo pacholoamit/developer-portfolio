@@ -1,2324 +1,2500 @@
 {
-  "closed": 33,
+  "closed": 2,
   "data": [
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1",
-      "title": "Migrated some files from TF 1.0 to 2.0",
-      "url": "https://github.com/tensorflow/addons/pull/1746",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2020-04-27T11:34:31Z",
-      "number": 1746,
-      "changedFiles": 2,
-      "additions": 1,
-      "deletions": 6,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA5MDU3MDUz",
-      "title": "Added tutorial notebooks for Focal and Contrastive losses",
-      "url": "https://github.com/tensorflow/addons/pull/1732",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-04-26T10:17:22Z",
-      "number": 1732,
-      "changedFiles": 2,
-      "additions": 567,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA4OTAxNTAy",
-      "title": "Fixed CyclicLearningRate and its tests' errors",
-      "url": "https://github.com/tensorflow/addons/pull/1729",
+      "id": "MDExOlB1bGxSZXF1ZXN0NjE2MDkxNzE5",
+      "title": "Addition of DNT config to snowplow object <Tag Generator>",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1078",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/18154355?u=7bcba6c98d214c5935b46334ec888b43893f3b89&v=4",
-        "url": "https://github.com/seanpmorgan",
-        "login": "seanpmorgan"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
       },
-      "createdAt": "2020-04-25T12:33:41Z",
-      "number": 1729,
-      "changedFiles": 2,
-      "additions": 60,
-      "deletions": 12,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA4ODY0NDU1",
-      "title": "Added serializability tests in all optimizers and fixed serializability bug in yogi",
-      "url": "https://github.com/tensorflow/addons/pull/1728",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/18154355?u=7bcba6c98d214c5935b46334ec888b43893f3b89&v=4",
-        "url": "https://github.com/seanpmorgan",
-        "login": "seanpmorgan"
-      },
-      "createdAt": "2020-04-25T07:19:04Z",
-      "number": 1728,
-      "changedFiles": 10,
-      "additions": 80,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODkzNjM0",
-      "title": "Setting up complete workflow for project",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/4",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-        "url": "https://github.com/ashutosh1919",
-        "login": "ashutosh1919"
-      },
-      "createdAt": "2020-04-23T12:48:04Z",
-      "number": 4,
-      "changedFiles": 19,
-      "additions": 38,
-      "deletions": 47,
-      "baseRepository": {
-        "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "login": "ashutosh1919",
-          "url": "https://github.com/ashutosh1919"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODgxNTk0",
-      "title": "Test PR to setup workflow",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/3",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-        "url": "https://github.com/ashutosh1919",
-        "login": "ashutosh1919"
-      },
-      "createdAt": "2020-04-23T12:24:42Z",
-      "number": 3,
-      "changedFiles": 1,
-      "additions": 32,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "login": "ashutosh1919",
-          "url": "https://github.com/ashutosh1919"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA3MDkwMTk5",
-      "title": "Added layer_test in addons and refactoring the code",
-      "url": "https://github.com/tensorflow/addons/pull/1715",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2020-04-22T07:05:25Z",
-      "number": 1715,
-      "changedFiles": 1,
-      "additions": 72,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx",
-      "title": "Added Center loss",
-      "url": "https://github.com/tensorflow/addons/pull/1709",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2020-04-19T03:52:25Z",
-      "number": 1709,
+      "createdAt": "2021-04-15T14:19:03Z",
+      "number": 1078,
       "changedFiles": 3,
-      "additions": 131,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NDkyMDkw",
-      "title": "Fixed _save_model not working for batches in ModelCheckpoint Callback",
-      "url": "https://github.com/tensorflow/tensorflow/pull/38669",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-04-18T12:26:37Z",
-      "number": 38669,
-      "changedFiles": 1,
-      "additions": 15,
-      "deletions": 7,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA1NDQ3MTk1",
-      "title": "Fixed average_model_checkpoint to have integer save_freq",
-      "url": "https://github.com/tensorflow/addons/pull/1702",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-04-18T05:20:34Z",
-      "number": 1702,
-      "changedFiles": 2,
-      "additions": 27,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA1MTAzNjY3",
-      "title": "Added LossFunctionWrapper for losses and simplified code",
-      "url": "https://github.com/tensorflow/addons/pull/1688",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/11615393?u=9734b198bd7f7498157e95d48371c39e44b5002b&v=4",
-        "url": "https://github.com/WindQAQ",
-        "login": "WindQAQ"
-      },
-      "createdAt": "2020-04-17T12:27:37Z",
-      "number": 1688,
-      "changedFiles": 6,
-      "additions": 46,
-      "deletions": 90,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA0MTU2NDUy",
-      "title": "Added Multi Similarity loss",
-      "url": "https://github.com/tensorflow/addons/pull/1679",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2020-04-16T06:59:30Z",
-      "number": 1679,
-      "changedFiles": 4,
-      "additions": 548,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDAzNzQwMjM1",
-      "title": "Added demo of TQDMProgressBar() for evaluate()",
-      "url": "https://github.com/tensorflow/addons/pull/1674",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16867893?u=afbda060ede35cddb90255a8295460f6a2395135&v=4",
-        "url": "https://github.com/shun-lin",
-        "login": "shun-lin"
-      },
-      "createdAt": "2020-04-15T12:51:00Z",
-      "number": 1674,
-      "changedFiles": 1,
-      "additions": 19,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDAzMTcxMjA3",
-      "title": "Added tests for AverageModelCheckpoint() callback",
-      "url": "https://github.com/tensorflow/addons/pull/1667",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/12891691?u=7f49c0407749c186e5df5e1cecb8b2daa47846e3&v=4",
-        "url": "https://github.com/gabrieldemarmiesse",
-        "login": "gabrieldemarmiesse"
-      },
-      "createdAt": "2020-04-14T13:04:03Z",
-      "number": 1667,
-      "changedFiles": 1,
-      "additions": 199,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDAyOTg1MDU4",
-      "title": "Added code to call register_all() before loading model",
-      "url": "https://github.com/tensorflow/addons/pull/1665",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-04-14T05:58:52Z",
-      "number": 1665,
-      "changedFiles": 1,
-      "additions": 2,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDAyNjMyMzcz",
-      "title": "Added code to pass appropriate logs to on_test|train_end() methods",
-      "url": "https://github.com/tensorflow/tensorflow/pull/38499",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-04-13T12:57:08Z",
-      "number": 38499,
-      "changedFiles": 2,
-      "additions": 10,
-      "deletions": 6,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDAyMjg2MTk1",
-      "title": "Added TQDM Progressbar for evaluate()",
-      "url": "https://github.com/tensorflow/addons/pull/1649",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/12891691?u=7f49c0407749c186e5df5e1cecb8b2daa47846e3&v=4",
-        "url": "https://github.com/gabrieldemarmiesse",
-        "login": "gabrieldemarmiesse"
-      },
-      "createdAt": "2020-04-12T04:42:01Z",
-      "number": 1649,
-      "changedFiles": 2,
-      "additions": 102,
-      "deletions": 58,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDAyMTg1MzUy",
-      "title": "Added new flexible loss named GeneralLoss",
-      "url": "https://github.com/tensorflow/addons/pull/1647",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2020-04-11T12:44:29Z",
-      "number": 1647,
-      "changedFiles": 3,
-      "additions": 687,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDAyMTM5OTM5",
-      "title": "Adding progress bar also while evaluating the model",
-      "url": "https://github.com/tensorflow/tensorflow/pull/38447",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-04-11T04:46:51Z",
-      "number": 38447,
-      "changedFiles": 1,
-      "additions": 3,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDAxNzgxODEy",
-      "title": "Fixed broken links for post training quant and xla",
-      "url": "https://github.com/tensorflow/docs/pull/1535",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4",
-        "url": "https://github.com/TensorFlow-Docs-Copybara",
-        "login": "TensorFlow-Docs-Copybara"
-      },
-      "createdAt": "2020-04-10T06:46:53Z",
-      "number": 1535,
-      "changedFiles": 1,
-      "additions": 2,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "docs",
-        "url": "https://github.com/tensorflow/docs",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDAwMTA5MjQ0",
-      "title": "Fixed broken link for seo.js",
-      "url": "https://github.com/apollographql/gatsby-theme-apollo/pull/111",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/1216917?u=ed1a893911759f92e030c88d764dd2b84a8ccb15&v=4",
-        "url": "https://github.com/trevorblades",
-        "login": "trevorblades"
-      },
-      "createdAt": "2020-04-07T08:09:48Z",
-      "number": 111,
-      "changedFiles": 1,
-      "additions": 1,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "gatsby-theme-apollo",
-        "url": "https://github.com/apollographql/gatsby-theme-apollo",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/17189275?v=4",
-          "login": "apollographql",
-          "url": "https://github.com/apollographql"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzk5NTk4Mjk2",
-      "title": "Modified Social Card Design",
-      "url": "https://github.com/firecamp-io/firecamp-doc/pull/37",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/5078921?u=d767ecc4f7897ef750ce123b35fb23ac3ced2589&v=4",
-        "url": "https://github.com/Nishchit14",
-        "login": "Nishchit14"
-      },
-      "createdAt": "2020-04-06T12:06:58Z",
-      "number": 37,
-      "changedFiles": 2,
-      "additions": 105,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "firecamp-doc",
-        "url": "https://github.com/firecamp-io/firecamp-doc",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/45025286?v=4",
-          "login": "firecamp-io",
-          "url": "https://github.com/firecamp-io"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzk5MDI1MDc3",
-      "title": "header-button.js component shadowed to show the correct link",
-      "url": "https://github.com/firecamp-io/firecamp-doc/pull/35",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/5078921?u=d767ecc4f7897ef750ce123b35fb23ac3ced2589&v=4",
-        "url": "https://github.com/Nishchit14",
-        "login": "Nishchit14"
-      },
-      "createdAt": "2020-04-05T10:57:55Z",
-      "number": 35,
-      "changedFiles": 1,
-      "additions": 49,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "firecamp-doc",
-        "url": "https://github.com/firecamp-io/firecamp-doc",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/45025286?v=4",
-          "login": "firecamp-io",
-          "url": "https://github.com/firecamp-io"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzk4MDc0NjYy",
-      "title": "Added Basic Reveal Fade animations",
-      "url": "https://github.com/saadpasta/developerFolio/pull/76",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/48270786?u=dab5f6dc64923f646b354f47f52af65f44fd9e7e&v=4",
-        "url": "https://github.com/kartikcho",
-        "login": "kartikcho"
-      },
-      "createdAt": "2020-04-03T09:52:10Z",
-      "number": 76,
-      "changedFiles": 15,
-      "additions": 45,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "developerFolio",
-        "url": "https://github.com/saadpasta/developerFolio",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4",
-          "login": "saadpasta",
-          "url": "https://github.com/saadpasta"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzk3OTQzMTk3",
-      "title": "Added basic animations",
-      "url": "https://github.com/saadpasta/developerFolio/pull/74",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-04-03T05:21:40Z",
-      "number": 74,
-      "changedFiles": 18,
-      "additions": 463,
-      "deletions": 295,
-      "baseRepository": {
-        "name": "developerFolio",
-        "url": "https://github.com/saadpasta/developerFolio",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4",
-          "login": "saadpasta",
-          "url": "https://github.com/saadpasta"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzk3NDkxODM2",
-      "title": "Added doc for absolute import from gatsby eslint rules or other tools",
-      "url": "https://github.com/gatsbyjs/gatsby/pull/22750",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/15000607?u=96821f18af94d1574d81f3f50918fb51b595d2bf&v=4",
-        "url": "https://github.com/laurieontech",
-        "login": "laurieontech"
-      },
-      "createdAt": "2020-04-02T10:32:52Z",
-      "number": 22750,
-      "changedFiles": 1,
-      "additions": 13,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "gatsby",
-        "url": "https://github.com/gatsbyjs/gatsby",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/12551863?v=4",
-          "login": "gatsbyjs",
-          "url": "https://github.com/gatsbyjs"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzk2OTUwMDgy",
-      "title": "Corrected order of params of loss fn in custom_training.ipynb",
-      "url": "https://github.com/tensorflow/docs/pull/1528",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4",
-        "url": "https://github.com/TensorFlow-Docs-Copybara",
-        "login": "TensorFlow-Docs-Copybara"
-      },
-      "createdAt": "2020-04-01T12:00:52Z",
-      "number": 1528,
-      "changedFiles": 1,
-      "additions": 4,
-      "deletions": 4,
-      "baseRepository": {
-        "name": "docs",
-        "url": "https://github.com/tensorflow/docs",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzk0MDU1Njc1",
-      "title": "docs(accordion):  add ul wrapper for standalone panel",
-      "url": "https://github.com/uber/baseweb/pull/3119",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/5317799?u=2f6807ffe87dc49ae9e07bdf0089affc75d67f3d&v=4",
-        "url": "https://github.com/chasestarr",
-        "login": "chasestarr"
-      },
-      "createdAt": "2020-03-26T09:36:30Z",
-      "number": 3119,
-      "changedFiles": 2,
-      "additions": 6,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "baseweb",
-        "url": "https://github.com/uber/baseweb",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/538264?v=4",
-          "login": "uber",
-          "url": "https://github.com/uber"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzkzOTY1MDAz",
-      "title": "Added VariableV2 and VarHandleOp in python API of tesorflow",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37925",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-03-26T05:27:07Z",
-      "number": 37925,
-      "changedFiles": 1,
-      "additions": 94,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzkzNDgxODcy",
-      "title": "Modified docstring for minlex",
-      "url": "https://github.com/sympy/sympy/pull/18949",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/90703?u=71efaf421eece4f1d4d342751045acdd15108c50&v=4",
-        "url": "https://github.com/smichr",
-        "login": "smichr"
-      },
-      "createdAt": "2020-03-25T09:39:40Z",
-      "number": 18949,
-      "changedFiles": 1,
       "additions": 9,
-      "deletions": 6,
-      "baseRepository": {
-        "name": "sympy",
-        "url": "https://github.com/sympy/sympy",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/260832?v=4",
-          "login": "sympy",
-          "url": "https://github.com/sympy"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzkzNDU3NDQ2",
-      "title": "Added New book dao tests",
-      "url": "https://github.com/kiwix/kiwix-android/pull/1958",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-03-25T08:43:57Z",
-      "number": 1958,
-      "changedFiles": 1,
-      "additions": 90,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "kiwix-android",
-        "url": "https://github.com/kiwix/kiwix-android",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/826219?v=4",
-          "login": "kiwix",
-          "url": "https://github.com/kiwix"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzkyODI5NzM5",
-      "title": "Changed message for opening link in new tab dialog",
-      "url": "https://github.com/kiwix/kiwix-android/pull/1951",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/3358282?v=4",
-        "url": "https://github.com/macgills",
-        "login": "macgills"
-      },
-      "createdAt": "2020-03-24T07:46:29Z",
-      "number": 1951,
-      "changedFiles": 1,
-      "additions": 2,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "kiwix-android",
-        "url": "https://github.com/kiwix/kiwix-android",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/826219?v=4",
-          "login": "kiwix",
-          "url": "https://github.com/kiwix"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzkyNzc5NTI3",
-      "title": "Add behavioral note to VariableV2 and VarhandleOp",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37855",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-03-24T05:09:43Z",
-      "number": 37855,
-      "changedFiles": 2,
-      "additions": 7,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzkyNzY2NzIy",
-      "title": "Added example and description about numpy_function() in Dataset.map()",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37853",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-03-24T04:19:08Z",
-      "number": 37853,
-      "changedFiles": 1,
-      "additions": 17,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzkyNDAyOTI2",
-      "title": "Modified TensorScatterAdd to correctly specify examples for shape of tensor",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37832",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-03-23T13:58:48Z",
-      "number": 37832,
-      "changedFiles": 1,
-      "additions": 7,
-      "deletions": 6,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzkyMzA4MDUy",
-      "title": "Removed unnecessary examples for shape attribute which is not there in tensor_scatter_nd_add",
-      "url": "https://github.com/tensorflow/java/pull/35",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-03-23T10:51:46Z",
-      "number": 35,
-      "changedFiles": 1,
-      "additions": 7,
-      "deletions": 6,
-      "baseRepository": {
-        "name": "java",
-        "url": "https://github.com/tensorflow/java",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzkyMTcxNjYw",
-      "title": "Modified spacing and comments in interpreter code in order to show it in codelabs",
-      "url": "https://github.com/tensorflow/examples/pull/178",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/47573996?u=802a3f06345c20b7ec61bcd70779bbd88e6bc56b&v=4",
-        "url": "https://github.com/TensorFlow-Examples-Copybara",
-        "login": "TensorFlow-Examples-Copybara"
-      },
-      "createdAt": "2020-03-23T05:44:31Z",
-      "number": 178,
-      "changedFiles": 1,
-      "additions": 1,
-      "deletions": 3,
-      "baseRepository": {
-        "name": "examples",
-        "url": "https://github.com/tensorflow/examples",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzkyMTYxMjc3",
-      "title": "Added description of effect of regularization on validation and test",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37816",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-03-23T05:11:44Z",
-      "number": 37816,
-      "changedFiles": 1,
-      "additions": 6,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzkxOTY4ODE2",
-      "title": "Modified expand_path in config_parser to add environment var for mypy_path",
-      "url": "https://github.com/python/mypy/pull/8574",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-03-22T07:43:55Z",
-      "number": 8574,
-      "changedFiles": 1,
-      "additions": 4,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "mypy",
-        "url": "https://github.com/python/mypy",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1525981?v=4",
-          "login": "python",
-          "url": "https://github.com/python"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzkxOTYwMDI5",
-      "title": "Added example in the doc for TypeVar in using generic classes",
-      "url": "https://github.com/python/mypy/pull/8573",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-03-22T05:38:59Z",
-      "number": 8573,
-      "changedFiles": 1,
-      "additions": 38,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "mypy",
-        "url": "https://github.com/python/mypy",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1525981?v=4",
-          "login": "python",
-          "url": "https://github.com/python"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg4MTg3MTgx",
-      "title": " Added evaluation metric mean_absolute_relative_error",
-      "url": "https://github.com/scikit-learn/scikit-learn/pull/16689",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-03-14T06:43:13Z",
-      "number": 16689,
-      "changedFiles": 10,
-      "additions": 162,
-      "deletions": 5,
-      "baseRepository": {
-        "name": "scikit-learn",
-        "url": "https://github.com/scikit-learn/scikit-learn",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/365630?v=4",
-          "login": "scikit-learn",
-          "url": "https://github.com/scikit-learn"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg4MTY2Nzc4",
-      "title": "Added preprocessing and corrected example of RGB images before feeding rgb_to_yub",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37592",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-03-14T05:28:38Z",
-      "number": 37592,
-      "changedFiles": 1,
-      "additions": 8,
-      "deletions": 8,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg3ODA4OTcz",
-      "title": "Added pytype in tfds/core/lazy_imports_lib.py patch-9",
-      "url": "https://github.com/tensorflow/datasets/pull/1642",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2020-03-13T14:32:36Z",
-      "number": 1642,
-      "changedFiles": 1,
-      "additions": 22,
-      "deletions": 20,
-      "baseRepository": {
-        "name": "datasets",
-        "url": "https://github.com/tensorflow/datasets",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg3NzgyMjI5",
-      "title": "Added description for call() in tf.keras.layers.Layer",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37574",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-03-13T13:39:28Z",
-      "number": 37574,
-      "changedFiles": 1,
-      "additions": 6,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg3NjYwMDQz",
-      "title": "Added code for preprocessing of YUV images before feeding yuv_to_rgb",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37565",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-03-13T08:48:58Z",
-      "number": 37565,
-      "changedFiles": 1,
-      "additions": 25,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg3MjU5MDU4",
-      "title": "Corrected order of parameters in keras WideDeepModel",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37539",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-03-12T13:57:32Z",
-      "number": 37539,
-      "changedFiles": 1,
-      "additions": 5,
-      "deletions": 5,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg3MjUwMTU0",
-      "title": "Added doc and examples for tf.keras.losses.get",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37538",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-03-12T13:41:13Z",
-      "number": 37538,
-      "changedFiles": 1,
-      "additions": 21,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg3MTcxMDQy",
-      "title": "Fixed broken link for Bug & Performance issues",
-      "url": "https://github.com/tensorflow/community/pull/216",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/9475?v=4",
-        "url": "https://github.com/ewilderj",
-        "login": "ewilderj"
-      },
-      "createdAt": "2020-03-12T10:49:48Z",
-      "number": 216,
-      "changedFiles": 1,
-      "additions": 2,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "community",
-        "url": "https://github.com/tensorflow/community",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg3MTU0NDY5",
-      "title": " Added code and descriptions for complete beginners in overview.ipynb",
-      "url": "https://github.com/tensorflow/datasets/pull/1633",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-03-12T10:16:34Z",
-      "number": 1633,
-      "changedFiles": 1,
-      "additions": 28,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "datasets",
-        "url": "https://github.com/tensorflow/datasets",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg3MTA3NzU0",
-      "title": "Added example related to top_k parameter in tf.keras.metrics.Precision",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37528",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-03-12T08:34:26Z",
-      "number": 37528,
-      "changedFiles": 1,
-      "additions": 12,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg0NjUzNjI3",
-      "title": "Added pytype in tfds/core/hashing.py patch-8",
-      "url": "https://github.com/tensorflow/datasets/pull/1592",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2020-03-06T06:18:21Z",
-      "number": 1592,
-      "changedFiles": 1,
-      "additions": 6,
       "deletions": 4,
       "baseRepository": {
-        "name": "datasets",
-        "url": "https://github.com/tensorflow/datasets",
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg0NjQxMjUx",
-      "title": "Added pytype in tfds/core/file_format_adapter.py patch-7",
-      "url": "https://github.com/tensorflow/datasets/pull/1591",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2020-03-06T05:27:59Z",
-      "number": 1591,
-      "changedFiles": 2,
-      "additions": 52,
-      "deletions": 19,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjE2MDY4Njk0",
+      "title": "Addition of Dutchie iframe Ecommerce tag to generator",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1077",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-04-15T13:49:58Z",
+      "number": 1077,
+      "changedFiles": 3,
+      "additions": 140,
+      "deletions": 6,
       "baseRepository": {
-        "name": "datasets",
-        "url": "https://github.com/tensorflow/datasets",
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg0MDgxMzI2",
-      "title": "Added pytype in tfds/core/example_serializer.py patch-6",
-      "url": "https://github.com/tensorflow/datasets/pull/1578",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2020-03-05T05:51:54Z",
-      "number": 1578,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjEwNTg4MDM4",
+      "title": "Delete gradle.properties",
+      "url": "https://github.com/pacholoamit/Tienda/pull/78",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-04-07T11:32:52Z",
+      "number": 78,
+      "changedFiles": 33,
+      "additions": 1470,
+      "deletions": 381,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjEwNTc1MTU1",
+      "title": "Fingerprints",
+      "url": "https://github.com/pacholoamit/Tienda/pull/77",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-04-07T11:13:28Z",
+      "number": 77,
+      "changedFiles": 3,
+      "additions": 3,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA5Mjg2NjEx",
+      "title": "Major changes",
+      "url": "https://github.com/pacholoamit/Tienda/pull/76",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-04-05T22:33:52Z",
+      "number": 76,
+      "changedFiles": 62,
+      "additions": 3328,
+      "deletions": 1093,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA5MjIwNDE1",
+      "title": "Removal of unused dependencies",
+      "url": "https://github.com/pacholoamit/Tienda/pull/75",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-04-05T21:19:29Z",
+      "number": 75,
       "changedFiles": 2,
+      "additions": 0,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA5MjEwMDg4",
+      "title": "Code Clean up",
+      "url": "https://github.com/pacholoamit/Tienda/pull/74",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-04-05T21:08:35Z",
+      "number": 74,
+      "changedFiles": 5,
+      "additions": 28,
+      "deletions": 71,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA4NjExNTA0",
+      "title": "Successfully migrated querying of products from Future to stream",
+      "url": "https://github.com/pacholoamit/Tienda/pull/73",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-04-04T21:08:46Z",
+      "number": 73,
+      "changedFiles": 5,
+      "additions": 58,
+      "deletions": 48,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA4NTkwNzkz",
+      "title": "Major changes <Form validation, addition of Quantity as a field>",
+      "url": "https://github.com/pacholoamit/Tienda/pull/72",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-04-04T18:31:42Z",
+      "number": 72,
+      "changedFiles": 8,
+      "additions": 219,
+      "deletions": 149,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA4NTU4NjY1",
+      "title": "Added Google sign In & Facebook Sign in to sign up page",
+      "url": "https://github.com/pacholoamit/Tienda/pull/71",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-04-04T14:54:47Z",
+      "number": 71,
+      "changedFiles": 1,
       "additions": 31,
-      "deletions": 11,
-      "baseRepository": {
-        "name": "datasets",
-        "url": "https://github.com/tensorflow/datasets",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzg0MDY5Nzk5",
-      "title": "Added pytype in tfds/core/example_parser.py patch-5",
-      "url": "https://github.com/tensorflow/datasets/pull/1576",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2020-03-05T05:06:18Z",
-      "number": 1576,
-      "changedFiles": 2,
-      "additions": 22,
       "deletions": 9,
       "baseRepository": {
-        "name": "datasets",
-        "url": "https://github.com/tensorflow/datasets",
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzgzNTkwMTcy",
-      "title": "Added pytype in tfds/core/dataset_utils.py patch-4",
-      "url": "https://github.com/tensorflow/datasets/pull/1570",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2020-03-04T14:25:28Z",
-      "number": 1570,
-      "changedFiles": 2,
-      "additions": 42,
-      "deletions": 13,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA4NTU3ODk0",
+      "title": "Added basic sign in anonymously functionality",
+      "url": "https://github.com/pacholoamit/Tienda/pull/70",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-04-04T14:49:38Z",
+      "number": 70,
+      "changedFiles": 5,
+      "additions": 63,
+      "deletions": 48,
       "baseRepository": {
-        "name": "datasets",
-        "url": "https://github.com/tensorflow/datasets",
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzgzNDQ4ODc1",
-      "title": "Added pytype in tfds/core/dataset_info.py patch-3",
-      "url": "https://github.com/tensorflow/datasets/pull/1569",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2020-03-04T09:59:07Z",
-      "number": 1569,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA4NTI2ODU0",
+      "title": "Removal of unused imports",
+      "url": "https://github.com/pacholoamit/Tienda/pull/69",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-04-04T10:57:37Z",
+      "number": 69,
+      "changedFiles": 2,
+      "additions": 0,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA4NTI2NjQw",
+      "title": "Segregation of logic, Added progress indicators & onSuccess/onError message, added Crop functions",
+      "url": "https://github.com/pacholoamit/Tienda/pull/68",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-04-04T10:55:48Z",
+      "number": 68,
+      "changedFiles": 3,
+      "additions": 181,
+      "deletions": 53,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA4MzU4OTE5",
+      "title": "Added crop feature to sell workflow & status messages",
+      "url": "https://github.com/pacholoamit/Tienda/pull/67",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-04-03T09:31:33Z",
+      "number": 67,
+      "changedFiles": 5,
+      "additions": 129,
+      "deletions": 89,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAzOTMzMzUz",
+      "title": "Fixed \"advertiser\" filter on campaigns table overflow & added custom scrollbars to entire app.",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1036",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-03-30T15:14:39Z",
+      "number": 1036,
+      "changedFiles": 3,
+      "additions": 66,
+      "deletions": 17,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAzMTk0OTU1",
+      "title": "Added \"Attribution\" & \"Queued\" filter for campaign table.",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1033",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-03-29T22:29:24Z",
+      "number": 1033,
+      "changedFiles": 3,
+      "additions": 13,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAyOTE5MTcz",
+      "title": "Change \"Spend\" column header to \"Budget\"",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1031",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-03-29T16:39:26Z",
+      "number": 1031,
+      "changedFiles": 2,
+      "additions": 4,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAyODY5NjY0",
+      "title": "\"Affix\" component vertical overflow on campaign manager basics fix (made it mobile-responsive)",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1030",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10395290?u=d45064b36f98a5370665efef69a82f392f87e836&v=4",
+        "url": "https://github.com/felix28",
+        "login": "felix28"
+      },
+      "createdAt": "2021-03-29T15:40:26Z",
+      "number": 1030,
+      "changedFiles": 2,
+      "additions": 32,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAyODAwMDQz",
+      "title": "Added LiquidM pixel to tag generator",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1029",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10395290?u=d45064b36f98a5370665efef69a82f392f87e836&v=4",
+        "url": "https://github.com/felix28",
+        "login": "felix28"
+      },
+      "createdAt": "2021-03-29T14:15:22Z",
+      "number": 1029,
       "changedFiles": 1,
-      "additions": 77,
-      "deletions": 59,
+      "additions": 90,
+      "deletions": 1,
       "baseRepository": {
-        "name": "datasets",
-        "url": "https://github.com/tensorflow/datasets",
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzgyNDY0ODAy",
-      "title": "Added pytype in tfds/core patch-2",
-      "url": "https://github.com/tensorflow/datasets/pull/1554",
-      "state": "OPEN",
-      "mergedBy": null,
-      "createdAt": "2020-03-02T15:58:16Z",
-      "number": 1554,
-      "changedFiles": 2,
-      "additions": 223,
-      "deletions": 106,
-      "baseRepository": {
-        "name": "datasets",
-        "url": "https://github.com/tensorflow/datasets",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzgyMTg2NjQx",
-      "title": "Added pytype in tfds/core patch-1",
-      "url": "https://github.com/tensorflow/datasets/pull/1550",
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAyMjM1NzYz",
+      "title": "Major Changes - We are now able to view items for sale on Home page",
+      "url": "https://github.com/pacholoamit/Tienda/pull/66",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/46831603?v=4",
-        "url": "https://github.com/tfds-copybara",
-        "login": "tfds-copybara"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
       },
-      "createdAt": "2020-03-02T05:42:03Z",
-      "number": 1550,
-      "changedFiles": 2,
-      "additions": 42,
-      "deletions": 8,
+      "createdAt": "2021-03-28T12:43:36Z",
+      "number": 66,
+      "changedFiles": 11,
+      "additions": 439,
+      "deletions": 221,
       "baseRepository": {
-        "name": "datasets",
-        "url": "https://github.com/tensorflow/datasets",
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzgxODU4Njg5",
-      "title": "Specifying about representative_datasets in TfLiteConverter",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37192",
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAyMTMzNDE1",
+      "title": "Added feature to add photos to the sell page U.I",
+      "url": "https://github.com/pacholoamit/Tienda/pull/65",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
       },
-      "createdAt": "2020-02-29T14:28:26Z",
-      "number": 37192,
+      "createdAt": "2021-03-27T20:06:09Z",
+      "number": 65,
+      "changedFiles": 7,
+      "additions": 146,
+      "deletions": 90,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAyMTE4ODM2",
+      "title": "Able to create products on sell page and store data to DB",
+      "url": "https://github.com/pacholoamit/Tienda/pull/64",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-27T18:15:23Z",
+      "number": 64,
+      "changedFiles": 6,
+      "additions": 161,
+      "deletions": 39,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAxOTI2NDQy",
+      "title": "Removed \"attribution\" filter",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1028",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10395290?u=d45064b36f98a5370665efef69a82f392f87e836&v=4",
+        "url": "https://github.com/felix28",
+        "login": "felix28"
+      },
+      "createdAt": "2021-03-26T21:59:21Z",
+      "number": 1028,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAxMzM2NDA2",
+      "title": "Authentication hotfix",
+      "url": "https://github.com/pacholoamit/Tienda/pull/63",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-26T06:15:34Z",
+      "number": 63,
       "changedFiles": 2,
+      "additions": 23,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAwOTkxOTEz",
+      "title": "Campaigns table null value hotfix",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1027",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10395290?u=d45064b36f98a5370665efef69a82f392f87e836&v=4",
+        "url": "https://github.com/felix28",
+        "login": "felix28"
+      },
+      "createdAt": "2021-03-25T19:08:30Z",
+      "number": 1027,
+      "changedFiles": 1,
+      "additions": 9,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAwNDM0MTgw",
+      "title": "removal of unused dependency",
+      "url": "https://github.com/pacholoamit/Tienda/pull/62",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-25T05:16:35Z",
+      "number": 62,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAwMzkxMTUx",
+      "title": "U.I Changes. improved camera centering on user location",
+      "url": "https://github.com/pacholoamit/Tienda/pull/61",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-25T03:12:09Z",
+      "number": 61,
+      "changedFiles": 1,
+      "additions": 8,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAwMzc5OTA2",
+      "title": "Minor U.I improvements",
+      "url": "https://github.com/pacholoamit/Tienda/pull/60",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-25T02:36:55Z",
+      "number": 60,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAwMzc3MzQ2",
+      "title": "UI Circle now updates based on slider",
+      "url": "https://github.com/pacholoamit/Tienda/pull/59",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-25T02:28:57Z",
+      "number": 59,
+      "changedFiles": 1,
+      "additions": 39,
+      "deletions": 14,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAwMzU4MTM4",
+      "title": "Able to query locations based on radius.",
+      "url": "https://github.com/pacholoamit/Tienda/pull/58",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-25T01:25:35Z",
+      "number": 58,
+      "changedFiles": 6,
+      "additions": 202,
+      "deletions": 38,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAwMjEwNTU1",
+      "title": "campaigns table progress bar hotfix",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1024",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10395290?u=d45064b36f98a5370665efef69a82f392f87e836&v=4",
+        "url": "https://github.com/felix28",
+        "login": "felix28"
+      },
+      "createdAt": "2021-03-24T23:23:21Z",
+      "number": 1024,
+      "changedFiles": 1,
+      "additions": 27,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAwMTY0NTU2",
+      "title": "Added \"Value added impressions\" status if exceeded impressions goal",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1023",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10395290?u=d45064b36f98a5370665efef69a82f392f87e836&v=4",
+        "url": "https://github.com/felix28",
+        "login": "felix28"
+      },
+      "createdAt": "2021-03-24T22:47:13Z",
+      "number": 1023,
+      "changedFiles": 1,
+      "additions": 22,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTk5MDc3MDE4",
+      "title": "Added Jane tag to Generator",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1022",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-03-23T18:13:13Z",
+      "number": 1022,
+      "changedFiles": 2,
+      "additions": 75,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTk3NzQ5Mjg1",
+      "title": "Added \"Attribution\" status option on campaigns table",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1019",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-03-22T07:24:40Z",
+      "number": 1019,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTk3NzI1NTIx",
+      "title": "Progress Indicator in Campaigns table",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1018",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-03-22T06:49:14Z",
+      "number": 1018,
+      "changedFiles": 3,
+      "additions": 97,
+      "deletions": 37,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTk0MTk2MzM0",
+      "title": "Changed color of campaigns table",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1013",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10395290?u=d45064b36f98a5370665efef69a82f392f87e836&v=4",
+        "url": "https://github.com/felix28",
+        "login": "felix28"
+      },
+      "createdAt": "2021-03-16T19:55:50Z",
+      "number": 1013,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTk0MTM3Njk1",
+      "title": "minor update to Centro tag as requested by Ben",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1012",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10395290?u=d45064b36f98a5370665efef69a82f392f87e836&v=4",
+        "url": "https://github.com/felix28",
+        "login": "felix28"
+      },
+      "createdAt": "2021-03-16T18:17:55Z",
+      "number": 1012,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTkyNzkyNzAy",
+      "title": "WE GETTING CIRCLES",
+      "url": "https://github.com/pacholoamit/Tienda/pull/57",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-15T06:44:21Z",
+      "number": 57,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTkyNTA2OTcy",
+      "title": "Minor UI changes and code refactor",
+      "url": "https://github.com/pacholoamit/Tienda/pull/54",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-14T09:08:11Z",
+      "number": 54,
+      "changedFiles": 17,
+      "additions": 540,
+      "deletions": 550,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTkyNDgzMjY3",
+      "title": "Minor changes",
+      "url": "https://github.com/pacholoamit/Tienda/pull/53",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-14T06:19:08Z",
+      "number": 53,
+      "changedFiles": 4,
+      "additions": 11,
+      "deletions": 11,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTkxMzE4Mzkw",
+      "title": "Update User document in firebase when sign in/ sign out",
+      "url": "https://github.com/pacholoamit/Tienda/pull/49",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-12T02:21:45Z",
+      "number": 49,
+      "changedFiles": 13,
+      "additions": 190,
+      "deletions": 117,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg5MjIzOTE2",
+      "title": "Implemented basic scaffolding for getting user position",
+      "url": "https://github.com/pacholoamit/Tienda/pull/48",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-10T07:51:58Z",
+      "number": 48,
+      "changedFiles": 11,
+      "additions": 203,
+      "deletions": 126,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg5MTk2NTk1",
+      "title": "Migrated notification handler to AuthProvider",
+      "url": "https://github.com/pacholoamit/Tienda/pull/47",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-10T07:24:29Z",
+      "number": 47,
+      "changedFiles": 2,
+      "additions": 22,
+      "deletions": 16,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg2MjUwMDMx",
+      "title": "Successfully Enabled Facebook Authentication",
+      "url": "https://github.com/pacholoamit/Tienda/pull/45",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-07T13:08:40Z",
+      "number": 45,
+      "changedFiles": 2,
+      "additions": 26,
+      "deletions": 10,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg2MjAzNTAy",
+      "title": "Clean up",
+      "url": "https://github.com/pacholoamit/Tienda/pull/44",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-07T07:23:52Z",
+      "number": 44,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg2MjAyNDk5",
+      "title": "Added Loading spinner for async sign in method & error messages.",
+      "url": "https://github.com/pacholoamit/Tienda/pull/43",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-07T07:14:56Z",
+      "number": 43,
+      "changedFiles": 18,
+      "additions": 153,
+      "deletions": 37,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg2MTQ2Nzg0",
+      "title": "Configured release keystore to firebase and android app",
+      "url": "https://github.com/pacholoamit/Tienda/pull/42",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-06T22:24:32Z",
+      "number": 42,
+      "changedFiles": 1,
+      "additions": 15,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg2MDEyMTYx",
+      "title": "Update build.gradle",
+      "url": "https://github.com/pacholoamit/Tienda/pull/41",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-06T06:36:55Z",
+      "number": 41,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg2MDA4NDUw",
+      "title": "Successfully enabled Google sign in and Sign out",
+      "url": "https://github.com/pacholoamit/Tienda/pull/40",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-06T06:02:45Z",
+      "number": 40,
+      "changedFiles": 8,
+      "additions": 102,
+      "deletions": 92,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg1MzI4ODUw",
+      "title": "Auth Improvements <Added Google authentication>",
+      "url": "https://github.com/pacholoamit/Tienda/pull/39",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-05T05:21:43Z",
+      "number": 39,
+      "changedFiles": 5,
+      "additions": 62,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg0OTYwMTM5",
+      "title": "New white labeled brand <Affsmedia>",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/1001",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-03-04T16:53:04Z",
+      "number": 1001,
+      "changedFiles": 13,
+      "additions": 201,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTgyNzAyMzU1",
+      "title": "Installed Authentication",
+      "url": "https://github.com/pacholoamit/Tienda/pull/38",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-03-02T05:01:09Z",
+      "number": 38,
+      "changedFiles": 13,
+      "additions": 568,
+      "deletions": 312,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc5NDA4Nzc5",
+      "title": "Pa campaign table columns revision",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/988",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-24T15:52:13Z",
+      "number": 988,
+      "changedFiles": 2,
+      "additions": 66,
+      "deletions": 42,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc5MjU0MDMy",
+      "title": "initial refactor of cards",
+      "url": "https://github.com/pacholoamit/Tienda/pull/37",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-24T12:13:51Z",
+      "number": 37,
+      "changedFiles": 8,
+      "additions": 275,
+      "deletions": 222,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc4NTMzODY4",
+      "title": "added missing closing tag for image pixel",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/986",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-23T15:22:50Z",
+      "number": 986,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3MTA4ODMx",
+      "title": "Update",
+      "url": "https://github.com/pacholoamit/Tienda/pull/31",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-21T13:06:38Z",
+      "number": 31,
+      "changedFiles": 11,
+      "additions": 417,
+      "deletions": 363,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3MTA4Nzcy",
+      "title": "Scaffold pages",
+      "url": "https://github.com/pacholoamit/Tienda/pull/30",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-21T13:06:13Z",
+      "number": 30,
+      "changedFiles": 11,
+      "additions": 417,
+      "deletions": 363,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc2NDg5MTI2",
+      "title": "Revised tag generator",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/982",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-19T14:18:54Z",
+      "number": 982,
+      "changedFiles": 7,
+      "additions": 180,
+      "deletions": 754,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc2MDUwNjA1",
+      "title": "Pa ecommerce walkin attribution to campaign table",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/978",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-18T22:55:01Z",
+      "number": 978,
+      "changedFiles": 2,
+      "additions": 38,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc1MDUwNTY4",
+      "title": "Updates to main branch",
+      "url": "https://github.com/pacholoamit/Tienda/pull/29",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-17T16:34:28Z",
+      "number": 29,
+      "changedFiles": 4,
+      "additions": 798,
+      "deletions": 388,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc0OTkwMDc4",
+      "title": "Made header text responsive based on viewport size",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/976",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-17T15:12:08Z",
+      "number": 976,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc0OTYyNTE4",
+      "title": "Added Image Pixel ecommerce tag to the generator",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/975",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-17T14:34:15Z",
+      "number": 975,
+      "changedFiles": 2,
+      "additions": 147,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc0ODk2ODk3",
+      "title": "Push updates to main",
+      "url": "https://github.com/pacholoamit/Tienda/pull/27",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-17T12:56:18Z",
+      "number": 27,
+      "changedFiles": 6,
+      "additions": 431,
+      "deletions": 31,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc0ODk2NTQ5",
+      "title": "Revision of children screens in home page view",
+      "url": "https://github.com/pacholoamit/Tienda/pull/26",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-17T12:55:41Z",
+      "number": 26,
+      "changedFiles": 6,
+      "additions": 431,
+      "deletions": 31,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc0ODcyMjQ4",
+      "title": "Update to main branch",
+      "url": "https://github.com/pacholoamit/Tienda/pull/25",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-17T12:14:46Z",
+      "number": 25,
+      "changedFiles": 12,
+      "additions": 49,
+      "deletions": 22,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc0ODcxNzM3",
+      "title": "Revise Carousell",
+      "url": "https://github.com/pacholoamit/Tienda/pull/24",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-17T12:14:00Z",
+      "number": 24,
+      "changedFiles": 11,
+      "additions": 48,
+      "deletions": 21,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTczMjg3OTU1",
+      "title": "Minor changes",
+      "url": "https://github.com/pacholoamit/Tienda/pull/20",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-15T06:09:12Z",
+      "number": 20,
+      "changedFiles": 8,
+      "additions": 434,
+      "deletions": 146,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTczMDkzMDgy",
+      "title": "Minor config",
+      "url": "https://github.com/pacholoamit/Tienda/pull/17",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-14T13:45:00Z",
+      "number": 17,
+      "changedFiles": 7,
+      "additions": 227,
+      "deletions": 27,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTczMDQzNTcx",
+      "title": "New Breaking changes to Tienda.",
+      "url": "https://github.com/pacholoamit/Tienda/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-14T05:49:13Z",
+      "number": 16,
+      "changedFiles": 17,
+      "additions": 423,
+      "deletions": 214,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTcyOTE5MjQw",
+      "title": "Final update on version 1.0.x",
+      "url": "https://github.com/pacholoamit/Tienda/pull/14",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-13T10:40:13Z",
+      "number": 14,
+      "changedFiles": 8,
+      "additions": 221,
+      "deletions": 210,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTcyNzY5MTk2",
+      "title": "Updated logo sizing for privacy policy page.",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/965",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-12T20:45:43Z",
+      "number": 965,
+      "changedFiles": 1,
       "additions": 4,
       "deletions": 2,
       "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzgxODU1NDYy",
-      "title": "Corrected the default value for name param in Nadam",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37188",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-02-29T14:03:05Z",
-      "number": 37188,
-      "changedFiles": 1,
-      "additions": 1,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzgxODE4Njg0",
-      "title": "Added code to insert tfds dir into sys.path",
-      "url": "https://github.com/tensorflow/datasets/pull/1545",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-02-29T08:38:18Z",
-      "number": 1545,
-      "changedFiles": 1,
-      "additions": 3,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "datasets",
-        "url": "https://github.com/tensorflow/datasets",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzc5MDE2MTEw",
-      "title": "Modified metric_utils.py to fix conflicts with floatx and float32",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37020",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-02-24T14:20:44Z",
-      "number": 37020,
-      "changedFiles": 1,
-      "additions": 1,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzc4OTUyODQ0",
-      "title": "Modified doc for specifically mentioning about saving optimizer",
-      "url": "https://github.com/tensorflow/docs/pull/1472",
+      "id": "MDExOlB1bGxSZXF1ZXN0NTcyMjk1NTc0",
+      "title": "Created RoutesController file  in utilities folder. ",
+      "url": "https://github.com/pacholoamit/Tienda/pull/12",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4",
-        "url": "https://github.com/TensorFlow-Docs-Copybara",
-        "login": "TensorFlow-Docs-Copybara"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
       },
-      "createdAt": "2020-02-24T11:59:40Z",
-      "number": 1472,
-      "changedFiles": 1,
-      "additions": 8,
-      "deletions": 8,
+      "createdAt": "2021-02-12T05:56:11Z",
+      "number": 12,
+      "changedFiles": 11,
+      "additions": 330,
+      "deletions": 179,
       "baseRepository": {
-        "name": "docs",
-        "url": "https://github.com/tensorflow/docs",
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzc4OTAxMDU0",
-      "title": "Added reduce_variance for RaggedTensor with extra optimization",
-      "url": "https://github.com/tensorflow/tensorflow/pull/37014",
+      "id": "MDExOlB1bGxSZXF1ZXN0NTcxNDY4MDMx",
+      "title": "hotfix configured partnercrowd object in companyDataHandler file.",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/964",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/in/44061?v=4",
-        "url": "https://github.com/apps/copybara-service",
-        "login": "copybara-service"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
       },
-      "createdAt": "2020-02-24T09:59:46Z",
-      "number": 37014,
-      "changedFiles": 4,
-      "additions": 105,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzc4NzExNjM2",
-      "title": "Added doc for all application models for decode_prediction() and preprocess_input()",
-      "url": "https://github.com/tensorflow/tensorflow/pull/36995",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-02-23T14:27:24Z",
-      "number": 36995,
-      "changedFiles": 8,
-      "additions": 189,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzc4NzEwMjM0",
-      "title": "Added doc in inception_resnet_v2 for decode_prediction() and preprocess_input()",
-      "url": "https://github.com/tensorflow/tensorflow/pull/36994",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-02-23T14:14:15Z",
-      "number": 36994,
-      "changedFiles": 1,
-      "additions": 25,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzc4NzA5MTM2",
-      "title": "Added doc in DenseNet for decode_prediction() and preprocess_input()",
-      "url": "https://github.com/tensorflow/tensorflow/pull/36993",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-02-23T14:05:28Z",
-      "number": 36993,
-      "changedFiles": 1,
-      "additions": 25,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzc4NzA4NDAy",
-      "title": "Added doc in MobileNet for decode_predictions() and preprocess_input()",
-      "url": "https://github.com/tensorflow/tensorflow/pull/36992",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-02-23T13:57:39Z",
-      "number": 36992,
-      "changedFiles": 1,
-      "additions": 25,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzc4NzAxMDM3",
-      "title": "Added example of from_tensors and from_tensor_slices",
-      "url": "https://github.com/tensorflow/tensorflow/pull/36989",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-02-23T12:38:54Z",
-      "number": 36989,
-      "changedFiles": 1,
-      "additions": 10,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzc4MjA1MzIx",
-      "title": "Added doc corresponding to decode_prediction() and preprocess_input()",
-      "url": "https://github.com/tensorflow/tensorflow/pull/36951",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-02-21T10:14:44Z",
-      "number": 36951,
-      "changedFiles": 1,
-      "additions": 22,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mzc4MTM3MjQ5",
-      "title": "Modifying keras.py to print the KeyError with new line \\n",
-      "url": "https://github.com/tensorflow/estimator/pull/51",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/323199?u=dd45e7615e210711761056afbfc44c8679d87a87&v=4",
-        "url": "https://github.com/mihaimaruseac",
-        "login": "mihaimaruseac"
-      },
-      "createdAt": "2020-02-21T07:08:28Z",
-      "number": 51,
+      "createdAt": "2021-02-10T23:19:11Z",
+      "number": 964,
       "changedFiles": 2,
-      "additions": 20,
+      "additions": 2,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTcxNDU2Njc5",
+      "title": "\"Hook\" up front-end forms to graphql/apollo backend",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/963",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-10T22:53:44Z",
+      "number": 963,
+      "changedFiles": 4,
+      "additions": 148,
+      "deletions": 18,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTcwOTE3NzI3",
+      "title": "Configured ios & android folders to display Tienda icons",
+      "url": "https://github.com/pacholoamit/Tienda/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-10T08:18:49Z",
+      "number": 11,
+      "changedFiles": 64,
+      "additions": 132,
+      "deletions": 158,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTcwNDEzMTA5",
+      "title": "Deleted structured events in tag generator",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/961",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-09T16:02:48Z",
+      "number": 961,
+      "changedFiles": 2,
+      "additions": 0,
+      "deletions": 174,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY5NDUwNzQ4",
+      "title": "Pa privacy policy whitelabeled",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/960",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-08T12:54:21Z",
+      "number": 960,
+      "changedFiles": 2,
+      "additions": 379,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY5MjI5NDkx",
+      "title": "Pa Finalized navbar state and animations",
+      "url": "https://github.com/pacholoamit/Tienda/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-08T07:18:18Z",
+      "number": 10,
+      "changedFiles": 9,
+      "additions": 280,
+      "deletions": 89,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY5MDMyMTUw",
+      "title": "Able to loop over and display images & data from REST API endpoint & added bottomNavigation App Bar",
+      "url": "https://github.com/pacholoamit/Tienda/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-07T19:16:22Z",
+      "number": 9,
+      "changedFiles": 5,
+      "additions": 190,
+      "deletions": 79,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY4OTcyNjA2",
+      "title": "Major progress & changes",
+      "url": "https://github.com/pacholoamit/Tienda/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-07T13:16:48Z",
+      "number": 8,
+      "changedFiles": 12,
+      "additions": 374,
+      "deletions": 143,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY4OTM2NDM0",
+      "title": "Added revisions & routing",
+      "url": "https://github.com/pacholoamit/Tienda/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-07T08:46:14Z",
+      "number": 7,
+      "changedFiles": 7,
+      "additions": 382,
+      "deletions": 203,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY4NzAyNjky",
+      "title": "Expose optout schema to GraphQL",
+      "url": "https://github.com/MediaJel/mediajel-gql-service/pull/962",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-06T02:21:19Z",
+      "number": 962,
+      "changedFiles": 6,
+      "additions": 15000,
+      "deletions": 14962,
+      "baseRepository": {
+        "name": "mediajel-gql-service",
+        "url": "https://github.com/MediaJel/mediajel-gql-service",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY4MTYxNzY1",
+      "title": "Created basic carousel",
+      "url": "https://github.com/pacholoamit/Tienda/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-05T07:34:24Z",
+      "number": 4,
+      "changedFiles": 5,
+      "additions": 59,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY3OTIxMjQ4",
+      "title": "Revised Opt-Out page",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/956",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-04T21:17:01Z",
+      "number": 956,
+      "changedFiles": 4,
+      "additions": 29,
+      "deletions": 91,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY3MzY4OTAy",
+      "title": "Basic splashscreen & kaizen Todos",
+      "url": "https://github.com/pacholoamit/Tienda/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-04T06:21:05Z",
+      "number": 3,
+      "changedFiles": 11,
+      "additions": 134,
+      "deletions": 16,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY3MzE2ODk0",
+      "title": "Added entities folder & basic splashscreen widget",
+      "url": "https://github.com/pacholoamit/Tienda/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-04T04:05:57Z",
+      "number": 2,
+      "changedFiles": 6,
+      "additions": 54,
+      "deletions": 101,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY3MzA0NDg5",
+      "title": "Update basic folder structure",
+      "url": "https://github.com/pacholoamit/Tienda/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+        "url": "https://github.com/pacholoamit",
+        "login": "pacholoamit"
+      },
+      "createdAt": "2021-02-04T03:25:44Z",
+      "number": 1,
+      "changedFiles": 5,
+      "additions": 26,
+      "deletions": 19,
+      "baseRepository": {
+        "name": "Tienda",
+        "url": "https://github.com/pacholoamit/Tienda",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?u=6c71793ffd667608b97751dd5d63a8104ca6dceb&v=4",
+          "login": "pacholoamit",
+          "url": "https://github.com/pacholoamit"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY3MTM0MjYw",
+      "title": "Update ImpressionViewTag.js",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/953",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-03T20:49:45Z",
+      "number": 953,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY2MjcyNjg0",
+      "title": "Pa opt out page whitelabel",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/952",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-02T20:36:08Z",
+      "number": 952,
+      "changedFiles": 4,
+      "additions": 130,
+      "deletions": 20,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY1MTg2Mjcy",
+      "title": "Pa update third party option",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/949",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-02-01T13:34:52Z",
+      "number": 949,
+      "changedFiles": 1,
+      "additions": 308,
+      "deletions": 34,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTYzNTAwMzI3",
+      "title": "update consolidated ad impression schema",
+      "url": "https://github.com/MediaJel/mj-snowplow-management/pull/27",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-01-28T19:45:47Z",
+      "number": 27,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "mj-snowplow-management",
+        "url": "https://github.com/MediaJel/mj-snowplow-management",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTYzMzU2MjI5",
+      "title": "pa Update staging documentation in regards to styling & adding dependencies",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/947",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-01-28T15:46:56Z",
+      "number": 947,
+      "changedFiles": 1,
+      "additions": 7,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTYyNjczNzU1",
+      "title": "Pa remove dependencies",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/943",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-01-27T17:32:37Z",
+      "number": 943,
+      "changedFiles": 2,
+      "additions": 28,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTYxOTkxMTYz",
+      "title": "Pa opt out frontend page",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/939",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-01-26T19:00:12Z",
+      "number": 939,
+      "changedFiles": 5,
+      "additions": 230,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTU5MjkxMjY2",
+      "title": "pa Fix snowplow cookie setting",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/933",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
+      },
+      "createdAt": "2021-01-21T15:06:15Z",
+      "number": 933,
+      "changedFiles": 3,
+      "additions": 7,
       "deletions": 3,
       "baseRepository": {
-        "name": "estimator",
-        "url": "https://github.com/tensorflow/estimator",
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzcxMTc1NDAz",
-      "title": "Fix formatting of ops_version.md",
-      "url": "https://github.com/tensorflow/tensorflow/pull/36479",
+      "id": "MDExOlB1bGxSZXF1ZXN0NTU4NTAzMzk4",
+      "title": "Pa remove generate button centro",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/931",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
       },
-      "createdAt": "2020-02-05T04:20:12Z",
-      "number": 36479,
+      "createdAt": "2021-01-20T20:19:56Z",
+      "number": 931,
       "changedFiles": 1,
-      "additions": 3,
-      "deletions": 2,
+      "additions": 49,
+      "deletions": 40,
       "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzY5NTEwMjYz",
-      "title": "Gradient Doc Changed for v2",
-      "url": "https://github.com/tensorflow/tensorflow/pull/36365",
+      "id": "MDExOlB1bGxSZXF1ZXN0NTU4NDk3NzQ4",
+      "title": "pa Remove generate button from \"Centro\" option under Impression",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/930",
       "state": "CLOSED",
       "mergedBy": null,
-      "createdAt": "2020-01-31T10:21:07Z",
-      "number": 36365,
+      "createdAt": "2021-01-20T20:09:14Z",
+      "number": 930,
       "changedFiles": 1,
-      "additions": 16,
-      "deletions": 2,
+      "additions": 52,
+      "deletions": 40,
       "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzY5NDg1MTI3",
-      "title": "embedding_lookup_sparse divide by zero fixed",
-      "url": "https://github.com/tensorflow/tensorflow/pull/36364",
+      "id": "MDExOlB1bGxSZXF1ZXN0NTU3MDY2MzE5",
+      "title": "pa Added Centro option to the DSP dropbox under impressions.",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/927",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/in/44061?v=4",
-        "url": "https://github.com/apps/copybara-service",
-        "login": "copybara-service"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
       },
-      "createdAt": "2020-01-31T09:20:35Z",
-      "number": 36364,
-      "changedFiles": 2,
-      "additions": 25,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzY3MzEwNjA1",
-      "title": "Python version corrected in doc",
-      "url": "https://github.com/tensorflow/docs/pull/1435",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4",
-        "url": "https://github.com/TensorFlow-Docs-Copybara",
-        "login": "TensorFlow-Docs-Copybara"
-      },
-      "createdAt": "2020-01-27T04:50:23Z",
-      "number": 1435,
-      "changedFiles": 2,
-      "additions": 2,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "docs",
-        "url": "https://github.com/tensorflow/docs",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzY3MTMyNzEx",
-      "title": "Gradient doc changed to accurately show the returned params",
-      "url": "https://github.com/tensorflow/tensorflow/pull/36206",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4",
-        "url": "https://github.com/tensorflow-copybara",
-        "login": "tensorflow-copybara"
-      },
-      "createdAt": "2020-01-25T16:49:54Z",
-      "number": 36206,
+      "createdAt": "2021-01-18T22:28:52Z",
+      "number": 927,
       "changedFiles": 1,
-      "additions": 16,
-      "deletions": 2,
+      "additions": 130,
+      "deletions": 79,
       "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzY3MTI2MDk0",
-      "title": "Quantile Huber Loss to predict Specific Quantile Value",
-      "url": "https://github.com/tensorflow/tensorflow/pull/36204",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-01-25T15:24:48Z",
-      "number": 36204,
-      "changedFiles": 2,
-      "additions": 161,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzYyOTY0NTc3",
-      "title": "CUDA and requirements",
-      "url": "https://github.com/NVlabs/stylegan/pull/11",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2020-01-15T05:32:01Z",
-      "number": 11,
-      "changedFiles": 2,
-      "additions": 127,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "stylegan",
-        "url": "https://github.com/NVlabs/stylegan",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/2695301?v=4",
-          "login": "NVlabs",
-          "url": "https://github.com/NVlabs"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzI0OTk2OTQ0",
-      "title": "PR4",
-      "url": "https://github.com/nischaypandey/HF1/pull/4",
+      "id": "MDExOlB1bGxSZXF1ZXN0NTU0NTk1MTYx",
+      "title": "Update README.md ",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/920",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4",
-        "url": "https://github.com/nischaypandey",
-        "login": "nischaypandey"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12737471?u=ef9bd79b7d0f396e60f5d42f7903987c8d119cd1&v=4",
+        "url": "https://github.com/danaszova",
+        "login": "danaszova"
       },
-      "createdAt": "2019-10-06T03:33:23Z",
-      "number": 4,
+      "createdAt": "2021-01-14T02:08:42Z",
+      "number": 920,
       "changedFiles": 1,
-      "additions": 2,
-      "deletions": 0,
+      "additions": 15,
+      "deletions": 14,
       "baseRepository": {
-        "name": "HF1",
-        "url": "https://github.com/nischaypandey/HF1",
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4",
-          "login": "nischaypandey",
-          "url": "https://github.com/nischaypandey"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzI0OTk2ODgx",
-      "title": "PR3",
-      "url": "https://github.com/nischaypandey/HF1/pull/3",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4",
-        "url": "https://github.com/nischaypandey",
-        "login": "nischaypandey"
-      },
-      "createdAt": "2019-10-06T03:31:54Z",
-      "number": 3,
+      "id": "MDExOlB1bGxSZXF1ZXN0NTU0NDM2NDM0",
+      "title": "Update README.md",
+      "url": "https://github.com/MediaJel/mediajel-dashboard/pull/918",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-01-13T20:04:03Z",
+      "number": 918,
       "changedFiles": 1,
-      "additions": 2,
-      "deletions": 0,
+      "additions": 14,
+      "deletions": 13,
       "baseRepository": {
-        "name": "HF1",
-        "url": "https://github.com/nischaypandey/HF1",
+        "name": "mediajel-dashboard",
+        "url": "https://github.com/MediaJel/mediajel-dashboard",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4",
-          "login": "nischaypandey",
-          "url": "https://github.com/nischaypandey"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzI0OTk2Nzkw",
-      "title": "PR2",
-      "url": "https://github.com/nischaypandey/HF1/pull/2",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4",
-        "url": "https://github.com/nischaypandey",
-        "login": "nischaypandey"
-      },
-      "createdAt": "2019-10-06T03:30:15Z",
-      "number": 2,
-      "changedFiles": 1,
-      "additions": 2,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "HF1",
-        "url": "https://github.com/nischaypandey/HF1",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4",
-          "login": "nischaypandey",
-          "url": "https://github.com/nischaypandey"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzI0OTk2NzI1",
-      "title": "PR1",
-      "url": "https://github.com/nischaypandey/HF1/pull/1",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4",
-        "url": "https://github.com/nischaypandey",
-        "login": "nischaypandey"
-      },
-      "createdAt": "2019-10-06T03:28:47Z",
-      "number": 1,
-      "changedFiles": 1,
-      "additions": 2,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "HF1",
-        "url": "https://github.com/nischaypandey/HF1",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4",
-          "login": "nischaypandey",
-          "url": "https://github.com/nischaypandey"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzE5NTg0OTgz",
-      "title": "JSON Related errors are resolved and json files are compatible to json in python",
-      "url": "https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy/pull/17",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2019-09-20T07:00:46Z",
-      "number": 17,
-      "changedFiles": 6742,
-      "additions": 7423541,
-      "deletions": 228,
-      "baseRepository": {
-        "name": "Entity-Recognition-In-Resumes-SpaCy",
-        "url": "https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/39724935?v=4",
-          "login": "DataTurks-Engg",
-          "url": "https://github.com/DataTurks-Engg"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzE4NjQyMzk5",
-      "title": "Added mean_absolute_percentage_error in metrics fixes #10708",
-      "url": "https://github.com/scikit-learn/scikit-learn/pull/15007",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/630936?u=b5970c1f09aabdac20bd07baa3dccfb424ec0d5d&v=4",
-        "url": "https://github.com/rth",
-        "login": "rth"
-      },
-      "createdAt": "2019-09-18T06:03:48Z",
-      "number": 15007,
-      "changedFiles": 10,
-      "additions": 207,
-      "deletions": 46,
-      "baseRepository": {
-        "name": "scikit-learn",
-        "url": "https://github.com/scikit-learn/scikit-learn",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/365630?v=4",
-          "login": "scikit-learn",
-          "url": "https://github.com/scikit-learn"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzE3MDI2OTg3",
-      "title": "Quantile Huber Loss to predict Specific Quantile Value",
-      "url": "https://github.com/tensorflow/tensorflow/pull/32473",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2019-09-12T18:11:26Z",
-      "number": 32473,
-      "changedFiles": 0,
-      "additions": 0,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzE3MDI0NjAx",
-      "title": "Quantile Huber Loss to predict Specific Quantile Value",
-      "url": "https://github.com/tensorflow/tensorflow/pull/32472",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2019-09-12T18:04:44Z",
-      "number": 32472,
-      "changedFiles": 4479,
-      "additions": 243601,
-      "deletions": 109886,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzE2NzQyNjUy",
-      "title": "Quantile Huber Loss to predict Specific Quantile Value",
-      "url": "https://github.com/tensorflow/tensorflow/pull/32455",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2019-09-12T06:00:10Z",
-      "number": 32455,
-      "changedFiles": 2,
-      "additions": 170,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzA1OTM4NTE2",
-      "title": "Closing bracket was missing",
-      "url": "https://github.com/netrack/keras-metrics/pull/43",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/1778407?u=6403dc6c797b195dfd01e485afc8680ba3ef9972&v=4",
-        "url": "https://github.com/ybubnov",
-        "login": "ybubnov"
-      },
-      "createdAt": "2019-08-09T10:48:13Z",
-      "number": 43,
-      "changedFiles": 1,
-      "additions": 1,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "keras-metrics",
-        "url": "https://github.com/netrack/keras-metrics",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/10380772?v=4",
-          "login": "netrack",
-          "url": "https://github.com/netrack"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzAzNDk3NjY0",
-      "title": "Issue Fix #6280",
-      "url": "https://github.com/fossasia/open-event-server/pull/6289",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2019-08-01T18:13:43Z",
-      "number": 6289,
-      "changedFiles": 1,
-      "additions": 6,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "open-event-server",
-        "url": "https://github.com/fossasia/open-event-server",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/6295529?v=4",
-          "login": "fossasia",
-          "url": "https://github.com/fossasia"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzAzNDcwNzYz",
-      "title": "check integration default check",
-      "url": "https://github.com/fossasia/open-event-server/pull/6288",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2019-08-01T16:51:30Z",
-      "number": 6288,
-      "changedFiles": 2,
-      "additions": 2,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "open-event-server",
-        "url": "https://github.com/fossasia/open-event-server",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/6295529?v=4",
-          "login": "fossasia",
-          "url": "https://github.com/fossasia"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzAxNDAwNjgx",
-      "title": "Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar",
-      "url": "https://github.com/google/mentornet/pull/8",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2019-07-26T05:29:39Z",
-      "number": 8,
-      "changedFiles": 2,
-      "additions": 3,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "mentornet",
-        "url": "https://github.com/google/mentornet",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4",
-          "login": "google",
-          "url": "https://github.com/google"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzAxMzk5NTg5",
-      "title": "Comments",
-      "url": "https://github.com/ashutosh1919/mentornet/pull/1",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-        "url": "https://github.com/ashutosh1919",
-        "login": "ashutosh1919"
-      },
-      "createdAt": "2019-07-26T05:23:10Z",
-      "number": 1,
-      "changedFiles": 1,
-      "additions": 1,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "mentornet",
-        "url": "https://github.com/ashutosh1919/mentornet",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "login": "ashutosh1919",
-          "url": "https://github.com/ashutosh1919"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzAxMTE4NDY2",
-      "title": "Removed Unnecessary imports",
-      "url": "https://github.com/C-Aniruddh/DeepConversation/pull/1",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2019-07-25T12:21:04Z",
-      "number": 1,
-      "changedFiles": 1,
-      "additions": 0,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "DeepConversation",
-        "url": "https://github.com/C-Aniruddh/DeepConversation",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/6713004?u=805b5777ff6b00f95e9aecf1f848622eeec84ff9&v=4",
-          "login": "C-Aniruddh",
-          "url": "https://github.com/C-Aniruddh"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzAxMDg1Mzc5",
-      "title": "Removed Unnecessary import",
-      "url": "https://github.com/facebook/FAI-PEP/pull/326",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2019-07-25T10:42:49Z",
-      "number": 326,
-      "changedFiles": 1,
-      "additions": 0,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "FAI-PEP",
-        "url": "https://github.com/facebook/FAI-PEP",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/69631?v=4",
-          "login": "facebook",
-          "url": "https://github.com/facebook"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzAxMDY1ODY4",
-      "title": "Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar",
-      "url": "https://github.com/google/mentornet/pull/7",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/13424689?u=5a623978c86d2ffb6f5c46764cf57e71c5ced884&v=4",
-        "url": "https://github.com/roadjiang",
-        "login": "roadjiang"
-      },
-      "createdAt": "2019-07-25T09:48:38Z",
-      "number": 7,
-      "changedFiles": 2,
-      "additions": 3,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "mentornet",
-        "url": "https://github.com/google/mentornet",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4",
-          "login": "google",
-          "url": "https://github.com/google"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzAxMDA1NDA3",
-      "title": "Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar",
-      "url": "https://github.com/google/mentornet/pull/6",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2019-07-25T06:48:42Z",
-      "number": 6,
-      "changedFiles": 2,
-      "additions": 2,
-      "deletions": 2,
-      "baseRepository": {
-        "name": "mentornet",
-        "url": "https://github.com/google/mentornet",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4",
-          "login": "google",
-          "url": "https://github.com/google"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mjk5NjIwNDQx",
-      "title": "Quantile Huber Loss to predict Specific Quantile Value",
-      "url": "https://github.com/keras-team/keras/pull/13129",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2019-07-21T08:44:09Z",
-      "number": 13129,
-      "changedFiles": 7,
-      "additions": 133,
-      "deletions": 70,
-      "baseRepository": {
-        "name": "keras",
-        "url": "https://github.com/keras-team/keras",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/34455048?v=4",
-          "login": "keras-team",
-          "url": "https://github.com/keras-team"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mjk3MzIzMjcz",
-      "title": "Huber Loss Function for both kind of behavior. ",
-      "url": "https://github.com/keras-team/keras/pull/13104",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2019-07-13T15:14:42Z",
-      "number": 13104,
-      "changedFiles": 2,
-      "additions": 22,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "keras",
-        "url": "https://github.com/keras-team/keras",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/34455048?v=4",
-          "login": "keras-team",
-          "url": "https://github.com/keras-team"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mjg4NTMyMzQz",
-      "title": "RC Details",
-      "url": "https://github.com/abhinavhinger12/ala/pull/2",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-        "url": "https://github.com/ashutosh1919",
-        "login": "ashutosh1919"
-      },
-      "createdAt": "2019-06-15T05:19:37Z",
-      "number": 2,
-      "changedFiles": 3,
-      "additions": 555,
-      "deletions": 0,
-      "baseRepository": {
-        "name": "ala",
-        "url": "https://github.com/abhinavhinger12/ala",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/4638215?u=9c8d81f075a4206c9ce6386e7a97babce38c1037&v=4",
-          "login": "abhinavhinger12",
-          "url": "https://github.com/abhinavhinger12"
-        }
-      }
-    },
-    {
-      "id": "MDExOlB1bGxSZXF1ZXN0MjQzMzQxOTg5",
-      "title": "Face Verification and Recognition",
-      "url": "https://github.com/trekhleb/homemade-machine-learning/pull/14",
-      "state": "CLOSED",
-      "mergedBy": null,
-      "createdAt": "2019-01-09T13:56:53Z",
-      "number": 14,
-      "changedFiles": 268,
-      "additions": 1419,
-      "deletions": 1,
-      "baseRepository": {
-        "name": "homemade-machine-learning",
-        "url": "https://github.com/trekhleb/homemade-machine-learning",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/3000285?u=1e62782f227030b78b7aa78cbbcab5f8a24e658a&v=4",
-          "login": "trekhleb",
-          "url": "https://github.com/trekhleb"
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46608485?v=4",
+          "login": "MediaJel",
+          "url": "https://github.com/MediaJel"
         }
       }
     }
   ],
-  "merged": 54,
-  "open": 13,
+  "merged": 98,
+  "open": 0,
   "totalCount": 100
 }
