@@ -171,7 +171,7 @@ export const darkTheme = {
   body: "#000000",
   text: "#ffffff",
   expTxtColor: "#000a12",
-  highlight: "#4f5b62",
+  highlight: "black",
   dark: "#000a12",
   secondaryText: "#aeaeae",
   imageHighlight: "#9b5de5",
