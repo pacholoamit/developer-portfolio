@@ -157,8 +157,8 @@ export const materialDarkTheme = {
   body: "#263238",
   text: "#aeaeae",
   expTxtColor: "#000a12",
-  highlight: "#4f5b62",
-  dark: "#000a12",
+  highlight: "#D6BEF4",
+  dark: "#21052C",
   secondaryText: "#aeaeae",
   imageHighlight: "#607d8b",
   compImgHighlight: "#E6E6E6",
@@ -177,8 +177,8 @@ export const darkTheme = {
   imageHighlight: "#9b5de5",
   compImgHighlight: "#E6E6E6",
   jacketColor: "#763D8B",
-  headerColor: "#34515e",
-  splashBg: "#4f5b62",
+  headerColor: "#9b5de577",
+  splashBg: "#430A58",
 };
 
 export const materialLightTheme = {
