@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Pacholo Amit Portfolio",
     type: "website",
-    url: "http://pacholoamit.com.com/",
+    url: "http://pacholoamit.com/",
   },
 };
 
