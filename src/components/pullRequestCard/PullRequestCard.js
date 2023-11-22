@@ -69,7 +69,7 @@ class PullRequestCard extends Component {
         <div
           className="pull-request-card"
           style={{
-            backgroundColor: bgColor,
+            backgroundColor: "#0a0a0a" ?? bgColor,
             border: `1px solid ${iconPR.style.color}`,
           }}
         >
